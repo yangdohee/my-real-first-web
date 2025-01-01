@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>    
+<title> study web main home </title>
+<meta charset="utf-8">
+</head>
+
+<body>
+<h1> DOHEE <strong> STUDY WEB </strong> </h1>
+<h2> Let's grow up today, too</h2>
+<ol> 
+ <li> <a href="study home">My study home</a>
+ <li> <a href="html">html note</a>
+ <li> <a href="html.1">extra html note</a>
+ <li> <a href="english">English Conversation</a>
+</ol>
+
+<img src="together.jpg" width="100%">
+<a href="together.jpg" target="_blank" title="we can do it">you can identify photo by clicking <strong>this link</strong></a>
+
+<h1>how to use this web?</h1>
+<h2>Read the followings</h2>
+<p>
+<h3>
+    A web page that summarizes research on HTML languages and English.
+    Click the HTML text at the top to view HTML-related content.
+    You can then view organized learning information about HTML.
+    If you want to see the content of the English text, click on the English text at the top.
+    Then, you can view the contents of your English study in the same way. For the html Additional Study page, you can find more detailed information about HTML.
+    Click on it if you need it.
+    I hope you have a fun and efficient study time.
+    Try it now!
+</h3>
+</p>
+</body> 
+</html>
